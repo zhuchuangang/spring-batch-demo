@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: spring-batch-server
+#  datasource:
+#    driver-class-name: org.mariadb.jdbc.Driver
+#    username: root
+#    password: 123456
+#    url: jdbc:mysql://localhost:3308/uaa
+#    type: org.mariadb.jdbc.MariaDbDataSource
